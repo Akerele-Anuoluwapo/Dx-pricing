@@ -1,0 +1,22 @@
+@media screen and (max-width:600px){
+    
+    header{
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+    }
+    .line{
+        display: none;
+    }
+    .price-classes{
+        display: flex;
+        flex-direction: column; 
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+    }    
+    
+}
+
+   
